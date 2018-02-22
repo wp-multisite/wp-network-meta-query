@@ -1,0 +1,17 @@
+{
+  "name": "wp-multisite/wp-network-meta-query",
+  "description": "Add network meta query functon to WP_Network_Query",
+  "homepage": "https://github.com/wp-multisite/wp-network-meta-query",
+  "type": "wordpress-muplugin",
+  "require": {
+    "php": ">=5.2",
+    "composer/installers": "^1.0"
+  },
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Jonathan Harris",
+      "email": "jon@spacedmonkey.co.uk"
+    }
+  ]
+}
